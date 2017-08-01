@@ -1,0 +1,11 @@
+0. TODO
+    Any dimension in between 3X3 and 9X9.
+1. TODO
+    2D array.
+2. TODO
+    void greet(void);
+3. TODO
+    void init(void);
+    void draw(void);
+    bool move(int tile);
+    bool won(void);
